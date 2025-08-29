@@ -8,9 +8,9 @@ This app demonstrates how to integrate **TensorFlow Lite models** in a modern An
 ---
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="https://github.com/user-attachments/assets/28590cea-b792-407b-b3c9-7f2bcd700cbd" width="33%" />
-  <img src="https://github.com/user-attachments/assets/ea73a3db-5b8a-4505-8737-c87f0e6b7969" width="33%" />
-  <img src="https://github.com/user-attachments/assets/0a30737e-55ed-4c09-80e7-7bb006deed61" width="33%" />
+  <img src="https://github.com/user-attachments/assets/28590cea-b792-407b-b3c9-7f2bcd700cbd" width="32%" />
+  <img src="https://github.com/user-attachments/assets/ea73a3db-5b8a-4505-8737-c87f0e6b7969" width="32%" />
+  <img src="https://github.com/user-attachments/assets/0a30737e-55ed-4c09-80e7-7bb006deed61" width="32%" />
 </div>
 ---
 
